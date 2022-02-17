@@ -1,2 +1,2 @@
 # SweetScale
-Simplifying development in SuiteScrip 2.0
+Simplifying development in SuiteScript 2.0
